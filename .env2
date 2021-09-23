@@ -1,3 +1,0 @@
-PORT=4000
-DN_CON=mongodb+srv://ivangrestorres:FjJyjGS8f1vSP0MB@cluster0.xyaog.mongodb.net/mern_calendar
-SECRET_JWT_SEED=39ir0efjdfh98rf432p0r39j4r
