@@ -23,6 +23,7 @@ app.use(express.json());
 //User: ivangrestorres Pass FjJyjGS8f1vSP0MB
 
 app.use("/api/auth", require("./routes/auth"));
+app.use("/api/events", require("./routes/events"));
 
 //TODO: CRUD: Eventos
 
